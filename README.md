@@ -1,8 +1,8 @@
 # Ignite Lab - Design System
 
-**EN:** Responsive landing page design for medical clinics.
+**EN:** Complete Design System project using TypeScript and Storybook to implement the elements.
 
-**PT-BR:** Projeto de landing page responsivo para clinicas médicas.
+**PT-BR:** Projeto completo de Design System utilizando TypeScript e Storybook para a implementação dos elementos.
 
 Rocketseat - Ignite Lab 🚀💙
 
