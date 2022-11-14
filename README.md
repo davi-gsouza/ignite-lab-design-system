@@ -7,4 +7,4 @@
 Rocketseat - NLW Return 🚀💙
 
 ## Template
-<img src="./ignite-lab-design-system.png" alt="Capa do Ignite Lab - Design System" />
+<img src="./ignite-lab-design-system-template.png" alt="Capa do Ignite Lab - Design System" />
